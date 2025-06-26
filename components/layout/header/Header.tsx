@@ -15,6 +15,7 @@ const Header = () => {
                 <Link href="/" className='text-white hover:underline'>Home</Link>
                 <Link href="/about" className='text-white hover:underline'>About</Link>
                 <Link href="/blog" className='text-white hover:underline'>Blog</Link>
+                <Link href="/blog2" className='text-white hover:underline'>Blog2</Link>
                 <Link href="/contact" className='text-white hover:underline'>Contact</Link>
             </nav>
 

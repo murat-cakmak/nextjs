@@ -28,6 +28,7 @@ const MobileMenu = () => {
                 <Link href="/" className='text-black hover:underline'>Home</Link>
                 <Link href="/about" className='text-black hover:underline'>About</Link>
                 <Link href="/blog" className='text-black hover:underline'>Blog</Link>
+                <Link href="/blog2" className='text-black hover:underline'>Blog2</Link>
                 <Link href="/contact" className='text-black hover:underline'>Contact</Link>
             </nav>
             </SheetHeader>

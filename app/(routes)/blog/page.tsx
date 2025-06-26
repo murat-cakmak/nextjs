@@ -8,7 +8,7 @@ const BlogPage = async() => {
 
     return (
         <div className='container mx-auto py-8'>
-            <h1 className='text-3xl font-bold mb-6'>Blog Posts</h1>
+            <h1 className='text-3xl font-bold mb-6'>SSR Blog Posts</h1>
             <div className='space-y-4'>
                 {posts.map((post: { id: number; title: string; content: string }) => (
                     <div key={post.id} className='p-4 border rounded-lg shadow-sm'>
